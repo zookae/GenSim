@@ -1,6 +1,6 @@
 absl-py
 gym
-numpy
+numpy<2
 pybullet
 matplotlib
 opencv-python
