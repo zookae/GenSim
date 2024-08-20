@@ -23,3 +23,7 @@ seaborn
 trimesh
 rtree
 timm
+
+# to record
+imageio==2.35.1
+imageio-ffmpeg==0.5.1
